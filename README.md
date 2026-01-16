@@ -121,42 +121,9 @@ Check out my other projects including utilities, experiments, and contributions 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vorluno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=06B6D4&text_color=94A3B8" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorluno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=94A3B8" alt="Top Languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=vorluno&show_icons=true&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=06B6D4&text_color=94A3B8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorluno&layout=compact&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=94A3B8" height="170" />
 </div>
 
----
-
-## 💡 Core Principles
-
-```csharp
-public class DevelopmentPhilosophy
-{
-    public string[] CorePrinciples => new[]
-    {
-        "Clean Architecture - Separation of concerns is not optional",
-        "No Magic Deletes - Always soft delete, always audit",
-        "Test Everything - If it's not tested, it doesn't work",
-        "SOLID by Default - Write code that's easy to change"
-    };
-
-    public string Motto => "Transforming Ideas Into Reality";
-}
-```
 
 ---
-
-<div align="center">
-
-### Let's Connect!
-
-I'm always interested in discussing new projects, creative ideas, or opportunities to be part of something amazing.
-
-[![Portfolio](https://img.shields.io/badge/🌐_vorluno.dev-7C3AED?style=for-the-badge)](https://vorluno.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-@vorluno-181717?style=for-the-badge&logo=github)](https://github.com/vorluno)
-
----
-
-<sub>Made with 💜 in Panama 🇵🇦</sub>
-
-</div>
