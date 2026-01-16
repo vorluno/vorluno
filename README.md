@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vorluno/vorluno/main/BANNER-GITHUB.png" alt="Vorluno - Transforming Ideas Into Reality" width="100%">
+  <img src="BANNER-GITHUB.svg" alt="Vorluno - Transforming Ideas Into Reality" width="100%">
 </div>
 
 <br>
