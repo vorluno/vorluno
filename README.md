@@ -121,8 +121,8 @@ Check out my other projects including utilities, experiments, and contributions 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vorluno&show_icons=true&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=06B6D4&text_color=94A3B8" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorluno&layout=compact&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=94A3B8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vorluno&show_icons=true&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=06B6D4&text_color=94A3B8&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorluno&layout=compact&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=94A3B8&count_private=true" height="170" />
 </div>
 
 
