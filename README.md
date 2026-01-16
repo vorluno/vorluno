@@ -7,9 +7,9 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-vorluno.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vorluno.dev)
-  [![LinkedIn](LINKEDIN?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-gonzález-323b74248)
-  [![Email](Email-Contact?style=for-the-badge&logo=gmail&logoColor=white)](contacto@vorluno.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vorluno.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vorluno.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jos%C3%A9%20Gonz%C3%A1lez-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-gonz%C3%A1lez-323b74248/)
+[![Email](https://img.shields.io/badge/Email-contacto%40vorluno.dev-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@vorluno.dev)
 
 </div>
 
