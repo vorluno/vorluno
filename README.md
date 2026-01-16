@@ -8,8 +8,8 @@
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-vorluno.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vorluno.dev)
-  [![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/josé-gonzález-323b74248?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-gonzález-323b74248)
-  [![Email](https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](contacto@vorluno.dev)
+  [![LinkedIn](LINKEDIN?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-gonzález-323b74248)
+  [![Email](Email-Contact?style=for-the-badge&logo=gmail&logoColor=white)](contacto@vorluno.dev)
 
 </div>
 
